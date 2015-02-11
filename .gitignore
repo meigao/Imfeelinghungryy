@@ -1,2 +1,4 @@
 tmp/
 figures/
+*.txt
+*.p
